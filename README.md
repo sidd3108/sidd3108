@@ -1,4 +1,4 @@
-<img src = 
+<img src = "github-header-image.png"/>
 
 # 💫 About Me:
 🔭 I’m currently working on Btech CSE Core<br>👯 I’m looking to collaborate on Software Development Projects<br>🤝 I’m looking for help with Professionals and industry experts <br>🌱 I’m currently learning Java, C++ and Python<br>💬 Ask me about HTML ,CSS and JavaScript
